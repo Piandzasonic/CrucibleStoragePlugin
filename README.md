@@ -1,0 +1,2 @@
+# CrucibleStoragePlugin
+ Minecraft Plugin
